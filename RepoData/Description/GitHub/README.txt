@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🪐️🖱️📖️ The official documentation source repository for the OuterVM project, for emergency hardare/software tools that activates once your main pointer is trapped inside a window or virtual machine.
